@@ -1,4 +1,6 @@
-#F.I.S Guide		
+#F.I.S Guide
+
+>官方地址：http://fis.baidu.com/		
 
 	$ npm install -g fis
 	
