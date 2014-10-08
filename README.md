@@ -1,6 +1,6 @@
 #F.I.S Guide
 
->F.I.S [官方网站](http://fis.baidu.com/)		
+>[F.I.S 官方网站](http://fis.baidu.com/)		
 
 	$ npm install -g fis
 	$ fis server start 
