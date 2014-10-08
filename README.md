@@ -3,10 +3,6 @@
 	$ npm install -g fis
 	
 	$ fis server start 
-			
-	or
-			
-	$ fis server start -p [port]
 
 * 如果8080端口被占用，可以通过 fis server start -p [port] 指定新的端口
 
